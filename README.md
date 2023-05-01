@@ -1,7 +1,7 @@
 
 # Chicago Taxi Trips Pipeline
 
-This project is designed to provide an efficient and reliable data pipeline for analyzing Chicago taxi trips data. The data pipeline collects, processes, and stores data from Chicago's taxi trips to help identify what is the maximum fares for rides lasting 10 minutes or more?.
+This project is designed to provide an efficient and reliable data pipeline for analyzing Chicago taxi trips data. The data pipeline collects, processes, and stores data from Chicago's taxi trips to help identify what is the maximum fares for rides lasting 10 minutes or more?
 
 ## Schema
 
@@ -16,7 +16,7 @@ This architecture includes the following components:
 
 **Data storage:** After batch processing data is stroed in data warehouse. I used BigQuery, for further analysis and reporting.
 
-**Analytics and reporting:** For this This component I used Looker Studio.
+**Analytics and reporting:** For this component I used Looker Studio.
 
 ![App Screenshot](https://www.linkpicture.com/q/Screen-Shot-2023-04-30-at-6.16.09-PM.png)
 
